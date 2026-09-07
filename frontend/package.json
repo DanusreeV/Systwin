@@ -1,0 +1,20 @@
+{
+  "name": "systwin-ai-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "react-chartjs-2": "^5.2.0",
+    "chart.js": "^4.4.1"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0",
+    "@vitejs/plugin-react": "^4.2.1"
+  },
+  "scripts": {
+    "dev":   "vite --port 3000",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
